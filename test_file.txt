@@ -1,0 +1,6 @@
+person:jaden malik:45:401 southbark ln
+person:ubuntu steps:24:902 rendition st
+employee:jackson rev:61:20051 oblek ave:Garbagio Poke
+professor:Randal Pack:51:451 denesy rd:True
+person:aiden balkan:14:401 southbark ln
+endfile
